@@ -1,0 +1,1 @@
+{"code": "000660", "name": "*ST南华", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T01:59:59.174745+08:00", "datasets": {"money/quote.json": {"n": 1, "source": "push2his stock/get"}}}

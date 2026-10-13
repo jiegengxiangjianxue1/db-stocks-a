@@ -1,0 +1,1 @@
+{"code": "002750", "name": "龙津退", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T02:15:15.791878+08:00", "datasets": {"money/fflow.json": {"n": 120, "source": "push2his fflow/daykline"}, "money/quote.json": {"n": 1, "source": "push2his stock/get"}}}

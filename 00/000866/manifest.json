@@ -1,0 +1,1 @@
+{"code": "000866", "name": "扬子石化", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T02:02:17.378662+08:00", "datasets": {"money/quote.json": {"n": 1, "source": "push2his stock/get"}}}

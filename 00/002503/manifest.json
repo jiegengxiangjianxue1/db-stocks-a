@@ -1,0 +1,1 @@
+{"code": "002503", "name": "*ST搜特", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T02:12:54.328823+08:00", "datasets": {"money/fflow.json": {"n": 120, "source": "push2his fflow/daykline"}, "money/quote.json": {"n": 1, "source": "push2his stock/get"}}}

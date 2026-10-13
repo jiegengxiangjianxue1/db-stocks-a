@@ -1,0 +1,1 @@
+{"code": "000569", "name": "长城股份", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T01:58:55.627808+08:00", "datasets": {"money/quote.json": {"n": 1, "source": "push2his stock/get"}}}

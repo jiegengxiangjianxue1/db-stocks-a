@@ -1,0 +1,1 @@
+{"code": "000730", "name": "*ST环保", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T02:00:53.478023+08:00", "datasets": {"money/quote.json": {"n": 1, "source": "push2his stock/get"}}}

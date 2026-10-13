@@ -1,0 +1,1 @@
+{"code": "000508", "name": "琼民源A", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T01:58:00.990436+08:00", "datasets": {"money/quote.json": {"n": 1, "source": "push2his stock/get"}}}

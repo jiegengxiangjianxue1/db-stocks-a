@@ -1,0 +1,1 @@
+{"code": "000583", "name": "S*ST托普", "market": "sz", "asset_type": "stock_sz", "shard": "00", "updated_at": "2026-10-14T01:59:05.581185+08:00", "datasets": {"money/quote.json": {"n": 1, "source": "push2his stock/get"}}}
